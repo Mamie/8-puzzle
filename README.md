@@ -34,8 +34,7 @@ Solver
 
 
 
-assignment requirement
-> http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+Details of the assignment requirement with regard to the running time and space limitation can be found [here]
+(http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html). 
 
-enrichment hint
-> http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html
+In addition, some enrichment hints can be found [here] (http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html). 
