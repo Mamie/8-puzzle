@@ -1,5 +1,6 @@
 8-puzzle
 ============
+This is the week 4 assignment of [Coursera Algorithm,part I] (https://www.coursera.org/course/algs4partI) class.
 
 Summary
 ---------
