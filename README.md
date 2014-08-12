@@ -26,7 +26,7 @@ Board data type represents a priority queue of search node. Its API is as follow
 
 Solver
 ------
-Check whether the board is solvable by simultaneously solving a board differing from the initial board only in the positions of two adjacent blocks. Test client solver is in the main function.
+Check whether the board is solvable by simultaneously solving a twin board derived from initial board by exchanging two adjacent blocks. Test client solver is in the main function. API is shown below:
 
       public class Solver {
           public Solver(Board initial)            // find a solution to the initial board (using the A* algorithm)
