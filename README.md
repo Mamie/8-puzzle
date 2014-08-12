@@ -3,10 +3,11 @@
 
 Summary
 ---------
-This program implements A* search algorithm to solve the 8-puzzle problem.
+This program implements [A* search algorithm] (http://en.m.wikipedia.org/wiki/A*_search_algorithm) to solve 8-puzzle problem. 
 
 Board
 ------
+
       public class Board {
           public Board(int[][] blocks)           // construct a board from an N-by-N array of blocks
                                            // (where blocks[i][j] = block in row i, column j)
