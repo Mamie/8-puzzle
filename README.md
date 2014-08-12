@@ -3,7 +3,7 @@
 
 Summary
 ---------
-This program implements [A* search algorithm] (http://en.m.wikipedia.org/wiki/A*_search_algorithm) to solve 8-puzzle problem (a type of slider puzzle). It uses the sum of moves to current step and Manhattan priority function as cost function. A priority queue of search node containing number of moves, current board and previous search node is created. For each move, the search node with minimum cost is dequeued and neighboring nodes of this search node are then inserted into the priority queue. The sequence of moves using fewest number of moves to solve the puzzle is obtained when the goal board is ultimately dequeued(total number of moves is always at least its priority).
+This program implements [A* search algorithm] (http://en.m.wikipedia.org/wiki/A*_search_algorithm) to solve 8-puzzle problem (a type of slider puzzle). It uses the sum of moves to current step and Manhattan priority function as cost function. A priority queue of search node containing number of moves, current board and previous search node is created. For each move, the search node with minimum cost is dequeued and neighboring nodes of this search node are then inserted into the priority queue. The sequence of moves using fewest number of moves to solve the puzzle is obtained when the goal board is ultimately dequeued (total number of moves is always at least its priority).
 
 Board
 ------
